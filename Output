@@ -1,0 +1,11 @@
+RSA-Based Secure Message Communication System
+-------------------------------------------
+Enter message to send: Hello Bob
+
+Encrypted Message:
+[Base64 encrypted data - different each time]
+
+Decrypted Message:
+Hello Bob
+
+Message successfully received!
